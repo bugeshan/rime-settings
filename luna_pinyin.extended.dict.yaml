@@ -1,0 +1,34 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: luna_pinyin.extended
+version: "2021-07-25"
+sort: by_weight  #字典初始排序，可選original或by_weight
+use_preset_vocabulary: true # 是否引入「八股文」〔含字詞頻、詞庫〕
+
+import_tables:
+  - luna_pinyin
+  # https://github.com/wongdean/rime-settings
+  - essay
+  # https://github.com/fkxxyz/rime-cloverpinyin
+  # http://thuocl.thunlp.org/
+  - sogou_new_words
+  - THUOCL_animal
+  - THUOCL_caijing
+  - THUOCL_car
+  - THUOCL_chengyu
+  - THUOCL_diming
+  - THUOCL_food
+  - THUOCL_IT
+  - THUOCL_law
+  - THUOCL_lishimingren
+  - THUOCL_medical
+  - THUOCL_poem
+  # https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases
+  # zhwiki
+  # https://github.com/zer4tul/RIME-Extend-Dict
+  - luna_pinyin.city_beijing
+  # https://pinyin.sogou.com/dict/detail/index/73960
+  - sogou_beijing_hua
+...

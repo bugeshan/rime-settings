@@ -1,0 +1,16 @@
+#
+# /Library/Input Methods/Squirrel.app/Contents/SharedSupport/default.yaml
+
+patch:
+# 候选词为 8 个
+  menu:
+    page_size: 8
+# 只留「朙月拼音」
+  schema_list:
+    - schema: luna_pinyin
+
+# 键位功能
+  key_binder/bindings:
+    - { when: paging, accept: bracketleft, send: Page_Up }
+    - { when: has_menu, accept: bracketright, send: Page_Down } # 使用 [ ] 翻页
+    - { when: always, accept: "Control+a", toggle: simplification } # 简繁切换

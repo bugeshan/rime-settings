@@ -1,0 +1,68 @@
+#
+# /Library/Input Methods/Squirrel.app/Contents/SharedSupport/luna_pinyin.schema.yaml
+#
+
+patch:
+
+# 简繁切换
+  switches:
+    - name: simplification    # 轉換開關
+      reset: 1 # 强制默认简体，可临时切换繁体，不保存状态
+      states: [ 漢字, 汉字 ]
+
+# 关闭中英切换输入
+  engine:
+    processors:      
+      # - ascii_composer
+      - recognizer
+      - key_binder
+      - speller
+      - punctuator
+      - selector
+      - navigator
+      - express_editor
+    segmentors:
+      - ascii_segmentor
+      - matcher
+      - abc_segmentor
+      - punct_segmentor
+      - fallback_segmentor
+    translators:
+      - punct_translator
+      - table_translator@custom_phrase
+      - reverse_lookup_translator
+      - script_translator
+    filters:
+      - simplifier
+      - uniquifier
+
+# 自定义拼写
+  speller:
+    # a-b.com/D_e.html，而且 hh 能 呵呵 ！需 symbols.custom 指定半角-全角符号。
+    alphabet: 'zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA./-_()'
+    initials: 'zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA'
+    algebra:
+      - erase/^xx$/                      # 第一行保留
+      # 模糊音定義先於簡拼定義，方可令簡拼支持以上模糊音
+      - abbrev/^([a-z]).+$/$1/           # 簡拼（首字母）
+      - abbrev/^([zcs]h).+$/$1/          # 簡拼（zh, ch, sh）
+      # 以下是一組容錯拼寫，《漢語拼音》方案以前者爲正
+      - derive/^([nl])ve$/$1ue/          # nve = nue, lve = lue
+      # 自動糾正一些常見的按鍵錯誤
+      - derive/([aeiou])ng$/$1gn/        # dagn => dang 
+      - derive/([dtngkhrzcs])o(u|ng)$/$1o/  # zho => zhong|zhou
+      - derive/ong$/on/                  # zhonguo => zhong guo
+      - derive/ao$/oa/                   # hoa => hao
+      - derive/([iu])a(o|ng?)$/a$1$2/    # tain => tian
+
+# 扩展词库
+  translator:
+    dictionary: luna_pinyin.extended
+
+# 自定义符号
+  punctuator:
+    import_preset: symbols.custom
+#  recognizer/patterns/punct: '^/([0-9]0?|[A-Za-z]+)$'
+
+# 关闭 ` 键反查功能
+  recognizer/patterns/reverse_lookup:

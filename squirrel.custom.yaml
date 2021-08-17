@@ -1,0 +1,63 @@
+#
+# /Library/Input Methods/Squirrel.app/Contents/SharedSupport/squirrel.yaml
+
+patch:
+
+# 通知栏显示方式
+  show_notifications_via_notification_center: false
+
+# 已关闭英文输入，避免无法启动中文
+  app_options:
+    # com.apple.dt.Xcode:
+      # ascii_mode: true
+
+
+# 皮肤（对比 apathy 调整 mojave_dark）
+  style:
+    color_scheme: apathy
+
+  preset_color_schemes:
+    mojave_dark:
+      name: 沙漠夜／Mojave Dark
+      author: xiehuc <xiehuc@gmail.com>
+      horizontal: true # 水平排列
+      inline_preedit: true #单行显示，false双行显示
+      candidate_format: "%c\u2005%@\u2005" # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
+      corner_radius: 3 #候选条圆角
+      hilited_corner_radius: 2 # 高亮圆角
+      border_height: 0 # 窗口边界高度，大于圆角半径才生效
+      border_width: 0 # 窗口边界宽度，大于圆角半径才生效
+      font_face: "PingFangSC-Regular,HanaMinB" #候选词字体
+      font_point: 16 #候选字词大小
+      label_font_face: "STHeitiSC-Light" #候选词编号字体
+      label_font_point: 12 #候选编号大小
+      text_color: 0xdedddd # 拼音行文字颜色，24位色值，16进制，BGR顺序
+      back_color: 0x252320 # 候选条背景色
+      label_color: 0x888785 # 预选栏编号颜色
+      border_color: 0x020202 # 边框色
+      candidate_text_color: 0xdedddd # 预选项文字颜色
+      hilited_text_color: 0xdedddd # 高亮拼音 (需要开启内嵌编码)
+      hilited_back_color: 0x252320 # 高亮拼音 (需要开启内嵌编码)
+      hilited_candidate_text_color: 0xffffff # 第一候选项文字颜色
+      hilited_candidate_back_color: 0xcb5d00 # 第一候选项背景背景色
+      hilited_candidate_label_color: 0xffffff # 第一候选项编号颜色
+      comment_text_color: 0xdedddd # 拼音等提示文字颜色
+      #hilited_comment_text_color: 0xdedddd # 注解文字高亮
+    apathy:
+      name: 冷漠／Apathy
+      author: LIANG Hai
+      horizontal: true
+      inline_preedit: true
+      candidate_format: "%c\u2005%@\u2005"
+      corner_radius: 5
+      border_height: 0
+      border_width: 0
+      font_face: "PingFangSC-Regular,HanaMinB"
+      font_point: 16
+      label_font_face: "STHeitiSC-Light"
+      label_font_point: 12
+      back_color: 0xFFFFFF
+      text_color: 0x424242
+      hilited_candidate_text_color: 0xEE6E00
+      hilited_candidate_back_color: 0xFFF0E4
+      comment_text_color: 0x999999

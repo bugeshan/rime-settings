@@ -1,0 +1,1051 @@
+---
+name: sogou_beijing_hua
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: true
+...
+啊哒	a da	1
+阿哥	a ge	1
+阿玛	a ma	1
+阿替五替	a ti wu ti	1
+腌臜	a za	1
+阿扎	a zha	1
+挨挨儿	ai ai er	1
+矮巴溜丢	ai ba liu diu	1
+挨噌	ai ceng	1
+挨呲儿	ai ci er	1
+爱搭不理儿	ai da bu li er	1
+挨瞪	ai deng	1
+挨堆儿	ai dui er	1
+挨个儿	ai ge er	1
+挨肩儿	ai jian er	1
+碍紧	ai jin	1
+霭康	ai kang	1
+挨靠儿	ai kao er	1
+挨剋	ai kei	1
+挨撸	ai lu	1
+挨骂	ai ma	1
+挨哪儿住	ai na er zhu	1
+矮趴趴	ai pa pa	1
+挨牌儿	ai pai er	1
+挨喯儿	ai pen er	1
+挨亲儿	ai qin er	1
+爱人儿	ai ren er	1
+爱人肉儿	ai ren rou er	1
+碍事	ai shi	1
+碍事不拉脚	ai shi bu la jiao	1
+碍事儿	ai shi er	1
+挨涮	ai shuan	1
+挨说	ai shuo	1
+挨窝	ai wo	1
+爱窝窝儿	ai wo wo er	1
+爱小	ai xiao	1
+爱小便宜儿	ai xiao pian yi er	1
+哎呦喂	ai you wei	1
+挨宰	ai zai	1
+挨着班儿	ai zhe ban er	1
+挨着牌儿	ai zhe pai er	1
+碍着什么啦	ai zhe shen me la	1
+挨揍的木头	ai zou de mu tou	1
+案板	an ban	1
+安的什么心	an de shen me xin	1
+暗地儿	an di er	1
+揞儿	an er	1
+暗阁子	an ge zi	1
+安根	an gen	1
+安根子	an gen zi	1
+安罐	an guan	1
+暗含着	an han zhe	1
+按劲儿	an jin er	1
+暗坎儿	an kan er	1
+暗令子	an ling zi	1
+暗溜儿	an liu er	1
+暗门子	an men zi	1
+按说	an shuo	1
+安稳	an wen	1
+安歇	an xie	1
+安心	an xin	1
+安心丸儿	an xin wan er	1
+安桩	an zhuang	1
+案子	an zi	1
+安座子	an zuo zi	1
+傲不腾	ao bu teng	1
+熬碴儿	ao cha er	1
+熬敞脸儿	ao chang lian er	1
+熬嗤	ao chi	1
+熬出头儿来了	ao chu tou er lai le	1
+慠慒	ao cong	1
+熬大鹰	ao da ying	1
+熬克	ao ke	1
+熬腻	ao ni	1
+嗷呕话儿	ao ou hua er	1
+熬头	ao tou	1
+熬心	ao xin	1
+熬鹰	ao ying	1
+熬子	ao zi	1
+鏊子	ao zi	1
+爸爸	ba ba	1
+巴巴结结	ba ba jie jie	1
+巴巴罾儿	ba ba zeng er	1
+八百辈子	ba bai bei zi	1
+八瓣儿五	ba ban er wu	1
+八辈儿五	ba bei er wu	1
+八辈子	ba bei zi	1
+拔不出腿来	ba bu chu tui lai	1
+巴不得	ba bu de	1
+巴不结	ba bu jie	1
+巴不结的呢	ba bu jie de ne	1
+巴不能够儿	ba bu neng gou er	1
+八成儿	ba cheng er	1
+巴嗤	ba chi	1
+扒嗤	ba chi	1
+把杵	ba chu	1
+拔出腿来	ba chu tui lai	1
+拔创	ba chuang	1
+吧嗒	ba da	1
+霸道	ba dao	1
+把得紧	ba de jin	1
+把得紧不老少	ba de jin bu lao shao	1
+巴儿	ba er	1
+把儿	ba er	1
+爸儿	ba er	1
+吧儿吧儿的	ba er ba er de	1
+把儿灯	ba er deng	1
+把儿缸子	ba er gang zi	1
+扒房	ba fang	1
+拔份	ba fen	1
+拔份儿	ba fen er	1
+把竿儿	ba gan er	1
+八杆子打不着	ba gan zi da bu zhao	1
+八竿子打不着	ba gan zi da bu zhao	1
+八根柴	ba gen chai	1
+八更	ba geng	1
+坝鬼子	ba gui zi	1
+八棍儿	ba gun er	1
+把过来	ba guo lai	1
+把合	ba he	1
+把滑	ba hua	1
+把簧	ba huang	1
+扒豁子	ba huo zi	1
+吧唧	ba ji	1
+把家	ba jia	1
+把家虎儿	ba jia hu er	1
+巴尖儿	ba jian er	1
+拔尖儿	ba jian er	1
+八脚子	ba jiao zi	1
+巴结	ba jie	1
+八九不离十	ba jiu bu li shi	1
+八开	ba kai	1
+把口儿	ba kou er	1
+疤瘌	ba la	1
+疤瘌饼	ba la bing	1
+疤瘌流星	ba la liu xing	1
+疤瘌眼儿	ba la yan er	1
+把牢	ba lao	1
+疤痢	ba li	1
+把敛	ba lian	1
+扒落	ba luo	1
+拔萝卜	ba luo bo	1
+八面不讨好儿	ba mian bu tao hao er	1
+八面讨好儿	ba mian tao hao er	1
+八模儿	ba mo er	1
+拔脯儿	ba pu er	1
+拔谱儿	ba pu er	1
+拔脯子	ba pu zi	1
+拔旗儿	ba qi er	1
+把软统	ba ruan tong	1
+拔塞子	ba sai zi	1
+把上弦	ba shang xian	1
+把式	ba shi	1
+把手儿	ba shou er	1
+巴头儿	ba tou er	1
+扒头儿	ba tou er	1
+拔头份儿	ba tou fen er	1
+巴头探脑	ba tou tan nao	1
+拔腿	ba tui	1
+巴望	ba wang	1
+八下里	ba xia li	1
+把弦儿	ba xian er	1
+八仙桌儿	ba xian zhuo er	1
+吧则	ba ze	1
+巴掌	ba zhang	1
+巴子	ba zi	1
+把子	ba zi	1
+八字儿还没一撇儿	ba zi er hai mei yi pie er	1
+八宗	ba zong	1
+拔尊	ba zun	1
+把作	ba zuo	1
+白案儿	bai an er	1
+白白净净儿	bai bai jing jing er	1
+白班儿	bai ban er	1
+白不呲咧	bai bu ci lie	1
+白不搭	bai bu da	1
+白醭儿	bai bu er	1
+掰不开镊子	bai bu kai nie zi	1
+摆不平	bai bu ping	1
+白碴儿	bai cha er	1
+掰扯	bai che	1
+白扯	bai che	1
+白扯白	bai che bai	1
+掰吃	bai chi	1
+白吃饱儿	bai chi bao er	1
+白吃猴儿	bai chi hou er	1
+白搭	bai da	1
+白瞪	bai deng	1
+摆地	bai di	1
+白垫	bai dian	1
+白丁	bai ding	1
+白丁儿	bai ding er	1
+摆动儿	bai dong er	1
+白费蜡	bai fei la	1
+拜杆儿	bai gan er	1
+白干儿	bai gan er	1
+白干儿酒	bai gan er jiu	1
+白搁张	bai ge zhang	1
+白果儿	bai guo er	1
+白果眼儿	bai guo yan er	1
+摆划	bai hua	1
+白话儿	bai hua er	1
+白话舌儿	bai hua she er	1
+白货	bai huo	1
+白霍	bai huo	1
+败火	bai huo	1
+白唧唧	bai ji ji	1
+败家	bai jia	1
+败家子儿	bai jia zi er	1
+摆件儿	bai jian er	1
+掰交情	bai jiao qing	1
+白开	bai kai	1
+掰开揉碎	bai kai rou sui	1
+白坎肩儿	bai kan jian er	1
+摆浪子	bai lang zi	1
+白老婆儿	bai lao po er	1
+白老头儿	bai lao tou er	1
+掰了	bai le	1
+白睖	bai leng	1
+百里挑一	bai li tiao yi	1
+白脸包	bai lian bao	1
+摆龙门阵	bai long men zhen	1
+摆露	bai lu	1
+白炉子	bai lu zi	1
+百嘛儿似的	bai ma er shi de	1
+摆忙	bai mang	1
+白忙	bai mang	1
+白毛儿汗	bai mao er han	1
+白帽子	bai mao zi	1
+白么搁张	bai me ge zhang	1
+摆门子	bai men zi	1
+掰面子	bai mian zi	1
+摆魔	bai mo	1
+掰弄	bai nong	1
+摆弄	bai nong	1
+摆派	bai pai	1
+白泡儿	bai pao er	1
+白坯儿	bai pi er	1
+摆谱儿	bai pu er	1
+白脐儿	bai qi er	1
+白钱儿	bai qian er	1
+白饶	bai rao	1
+白扔	bai reng	1
+白生生	bai sheng sheng	1
+百十来	bai shi lai	1
+百十来个	bai shi lai ge	1
+白薯	bai shu	1
+白头儿老	bai tou er lao	1
+白头绳儿	bai tou sheng er	1
+白头字儿	bai tou zi er	1
+白玩儿	bai wan er	1
+掰文儿	bai wen er	1
+白瞎	bai xia	1
+摆闲白儿	bai xian bai er	1
+摆闲盘儿	bai xian pan er	1
+摆闲篇儿	bai xian pian er	1
+摆闲撇儿	bai xian pie er	1
+摆邪	bai xie	1
+白眼儿狼	bai yan er lang	1
+白羊	bai yang	1
+百叶	bai ye	1
+拜月儿	bai yue er	1
+摆云锣儿	bai yun luo er	1
+白斋	bai zhai	1
+掰着疼	bai zhe teng	1
+摆轴	bai zhou	1
+白嘴儿	bai zui er	1
+半半道儿	ban ban dao er	1
+扳扳倒儿	ban ban dao er	1
+半半截儿	ban ban jie er	1
+半半拉拉	ban ban la la	1
+半半落落	ban ban luo luo	1
+半彪子	ban biao zi	1
+半不	ban bu	1
+半不道儿	ban bu dao er	1
+扳不倒儿	ban bu dao er	1
+半不啰啰	ban bu luo luo	1
+扳蹭儿	ban ceng er	1
+扳岔子	ban cha zi	1
+半大小伙子	ban da xiao huo zi	1
+半大小子	ban da xiao zi	1
+搬登	ban deng	1
+板凳队	ban deng dui	1
+板凳狗	ban deng gou	1
+半点儿	ban dian er	1
+半点儿不着调	ban dian er bu zhuo diao	1
+半吊子	ban diao zi	1
+伴儿	ban er	1
+板儿	ban er	1
+绊儿	ban er	1
+板儿车	ban er che	1
+半儿拉多月	ban er la duo yue	1
+半儿拉儿	ban er la er	1
+半儿拉去	ban er la qu	1
+半儿拉钟头	ban er la zhong tou	1
+半儿劈	ban er pi	1
+板儿平	ban er ping	1
+板儿锹	ban er qiao	1
+板儿石	ban er shi	1
+板儿条	ban er tiao	1
+板儿锨	ban er xian	1
+板儿牙	ban er ya	1
+板儿爷	ban er ye	1
+板儿直	ban er zhi	1
+板儿砖	ban er zhuan	1
+半疯儿	ban feng er	1
+半疯子	ban feng zi	1
+扳杠	ban gang	1
+扳汗	ban han	1
+半憨子	ban han zi	1
+扳壶	ban hu	1
+搬尖儿	ban jian er	1
+半截儿	ban jie er	1
+半截儿美	ban jie er mei	1
+半截缸	ban jie gang	1
+半截腰儿	ban jie yao er	1
+半开眼	ban kai yan	1
+半空儿	ban kong er	1
+半剌瓜	ban la gua	1
+半剌架儿	ban la jia er	1
+办了	ban le	1
+半路途中	ban lu tu zhong	1
+般配	ban pei	1
+半瓶醋	ban ping cu	1
+半破儿	ban po er	1
+半铺炕儿	ban pu kang er	1
+半晌	ban shang	1
+半生不熟	ban sheng bu shu	1
+办事的衙役	ban shi de ya yi	1
+板手	ban shou	1
+半熟脸儿	ban shu lian er	1
+半死不活	ban si bu huo	1
+半死不拉活	ban si bu la huo	1
+扳死杠	ban si gang	1
+拌蒜	ban suan	1
+半瘫儿	ban tan er	1
+板条儿	ban tiao er	1
+半新不旧	ban xin bu jiu	1
+板眼	ban yan	1
+半掩门儿	ban yan men er	1
+半腰	ban yao	1
+半语子	ban yu zi	1
+扳钟儿	ban zhong er	1
+半中间	ban zhong jian	1
+半中腰	ban zhong yao	1
+柈子	ban zi	1
+绊子	ban zi	1
+拌嘴	ban zui	1
+帮衬	bang chen	1
+帮喘	bang chuan	1
+棒棰	bang chui	1
+棒槌	bang chui	1
+傍大款	bang da kuan	1
+绑大款	bang da kuan	1
+棒儿芹	bang er qin	1
+傍黑儿	bang hei er	1
+傍家儿	bang jia er	1
+傍肩儿	bang jian er	1
+梆朗老硬	bang lang lao ying	1
+梆朗硬	bang lang ying	1
+傍亮	bang liang	1
+帮乱	bang luan	1
+傍晌	bang shang	1
+傍晌午	bang shang wu	1
+棒势	bang shi	1
+帮套	bang tao	1
+膀条	bang tiao	1
+梆硬	bang ying	1
+傍着	bang zhe	1
+棒子	bang zi	1
+棒子馆儿	bang zi guan er	1
+棒子粒儿	bang zi li er	1
+棒子面儿	bang zi mian er	1
+梆子头	bang zi tou	1
+帮嘴儿	bang zui er	1
+抱板儿	bao ban er	1
+饱饱儿的	bao bao er de	1
+宝贝疙瘩	bao bei ge da	1
+褒贬是买主儿	bao bian shi mai zhu er	1
+抱不平	bao bu ping	1
+保不起	bao bu qi	1
+保不齐	bao bu qi	1
+保不齐严儿	bao bu qi yan er	1
+保不住	bao bu zhu	1
+抱粗腿	bao cu tui	1
+包弹儿	bao dan er	1
+抱定	bao ding	1
+包袱	bao fu	1
+包袱皮儿	bao fu pi er	1
+保管	bao guan	1
+包管	bao guan	1
+包锅	bao guo	1
+抱锅	bao guo	1
+包涵	bao han	1
+宝盒子	bao he zi	1
+包葫芦头儿	bao hu lu tou er	1
+抱火盆儿	bao huo pen er	1
+抱脚儿	bao jiao er	1
+报君知	bao jun zhi	1
+抱空窝	bao kong wo	1
+报苦穷儿	bao ku qiong er	1
+保媒拉纤儿	bao mei la qian er	1
+宝魔	bao mo	1
+抱盆儿掷	bao pen er zhi	1
+抱篇儿	bao pian er	1
+薄片儿蛤蜊张	bao pian er ge li zhang	1
+薄片子嘴	bao pian zi zui	1
+暴强	bao qiang	1
+抱裙儿	bao qun er	1
+报丧头	bao sang tou	1
+抱沙锅	bao sha guo	1
+抱身儿	bao shen er	1
+抱馊腿	bao sou tui	1
+暴腾	bao teng	1
+孢头	bao tou	1
+暴土	bao tu	1
+暴土狼烟	bao tu lang yan	1
+暴土扬场	bao tu yang chang	1
+暴土扬烟儿	bao tu yang yan er	1
+抱团儿	bao tuan er	1
+抱腿儿	bao tui er	1
+抱窝	bao wo	1
+暴腌儿	bao yan er	1
+包圆儿	bao yuan er	1
+报元儿	bao yuan er	1
+抱怨星儿	bao yuan xing er	1
+暴燥	bao zao	1
+暴抓儿	bao zhua er	1
+饱壮	bao zhuang	1
+保准儿	bao zhun er	1
+包准儿	bao zhun er	1
+辈辈儿	bei bei er	1
+备不住	bei bu zhu	1
+背灯影儿	bei deng ying er	1
+倍儿	bei er	1
+倍儿磁	bei er ci	1
+倍儿清	bei er qing	1
+倍儿铁	bei er tie	1
+背旮旯儿	bei ga la er	1
+背旮旯子	bei ga la zi	1
+背蛤蜊	bei ge li	1
+背过气去	bei guo qi qu	1
+背过去	bei guo qu	1
+背黑锅	bei hei guo	1
+被货	bei huo	1
+背扣儿	bei kou er	1
+背拉	bei la	1
+背累	bei lei	1
+背气	bei qi	1
+背头	bei tou	1
+被卧	bei wo	1
+背兴	bei xing	1
+背影儿	bei ying er	1
+背字儿	bei zi er	1
+笨笨拉拉	ben ben la la	1
+奔驰	ben chi	1
+奔达	ben da	1
+锛得儿木	ben de er mu	1
+奔儿	ben er	1
+本儿	ben er	1
+锛儿	ben er	1
+锛儿拉	ben er la	1
+锛儿拉头	ben er la tou	1
+奔儿了头	ben er le tou	1
+奔儿头	ben er tou	1
+笨狗	ben gou	1
+锛瓜	ben gua	1
+笨货	ben huo	1
+本家儿	ben jia er	1
+奔命	ben ming	1
+本命年	ben ming nian	1
+笨手八脚	ben shou ba jiao	1
+本乡本土儿	ben xiang ben tu er	1
+笨嘴巴舌	ben zui ba she	1
+绷绷儿	beng beng er	1
+蹦蹦儿	beng beng er	1
+蹦蹦儿车	beng beng er che	1
+蹦蹦儿利	beng beng er li	1
+蹦蹦儿戏	beng beng er xi	1
+绷不住	beng bu zhu	1
+绷出去	beng chu qu	1
+迸瓷儿	beng ci er	1
+迸磁儿	beng ci er	1
+蹦跶	beng da	1
+甭顶	beng ding	1
+迸豆儿	beng dou er	1
+甭儿	beng er	1
+蹦儿	beng er	1
+镚儿	beng er	1
+迸儿焦	beng er jiao	1
+镚儿亮	beng er liang	1
+迸干	beng gan	1
+绷弓儿	beng gong er	1
+绷簧	beng huang	1
+甭介	beng jie	1
+甭价	beng jie	1
+绷劲儿	beng jin er	1
+甭提	beng ti	1
+甭玩儿这套	beng wan er zhe tao	1
+甭用	beng yong	1
+绷着价儿	beng zhe jia er	1
+绷着脸儿	beng zhe lian er	1
+绷着脸子	beng zhe lian zi	1
+绷住劲儿	beng zhu jin er	1
+镚子	beng zi	1
+镚子儿	beng zi er	1
+鼻丁	bi ding	1
+鼻丁痂巴儿	bi ding jia ba er	1
+鼻丁痂儿	bi ding jia er	1
+鼻丁枯蚩	bi ding ku chi	1
+鼻丁牛儿	bi ding niu er	1
+鼻锔子	bi ju zi	1
+逼掯	bi ken	1
+哔啦卜碌	bi la bu lu	1
+闭了眼	bi le yan	1
+哔楞卜楞	bi leng bu leng	1
+鼻梁洼儿	bi liang wa er	1
+鼻牛儿	bi niu er	1
+荸荠果儿	bi qi guo er	1
+逼清	bi qing	1
+变着法儿	bian zhe fa er	1
+变着方儿	bian zhe fang er	1
+别介	bie jie	1
+伯伯	bo bo	1
+饽饽匣子	bo bo xia zi	1
+薄儿脆	bo er cui	1
+卜卜棱棱	bu bu leng leng	1
+不得劲儿	bu de jin er	1
+不介	bu jie	1
+不开面儿	bu kai mian er	1
+不老少	bu lao shao	1
+不吝	bu lin	1
+不耐事	bu nai shi	1
+不着调儿	bu zhuo diao er	1
+彩儿	cai er	1
+菜了	cai le	1
+踩一脚	cai yi jiao	1
+残了	can le	1
+苍果	cang guo	1
+藏猫猫	cang mao mao	1
+操蛋	cao dan	1
+蹭饭	ceng fan	1
+插车	cha che	1
+叉了	cha le	1
+唱的哪出儿啊	chang de na chu er a	1
+抄家伙	chao jia huo	1
+车轱辘话	che gu lu hua	1
+抻练	chen lian	1
+趁着	chen zhe	1
+成天儿	cheng tian er	1
+成心	cheng xin	1
+吃挂落儿	chi gua luo er	1
+吃了么您	chi le me nin	1
+迟累	chi lei	1
+吃心	chi xin	1
+抽抽	chou chou	1
+抽儿抽儿	chou er chou er	1
+抽冷子	chou leng zi	1
+出溜	chu liu	1
+处窝子	chu wo zi	1
+出现场	chu xian chang	1
+穿汗沓儿	chuan han ta er	1
+慈悲	ci bei	1
+呲达	ci da	1
+庛道	ci dao	1
+呲人	ci ren	1
+蹿叨	cuan dao	1
+蹿登	cuan deng	1
+攒剧本儿	cuan ju ben er	1
+汆丸子	cuan wan zi	1
+脆生	cui sheng	1
+存食	cun shi	1
+搓火	cuo huo	1
+搓火儿	cuo huo er	1
+撮一顿	cuo yi dun	1
+撮一顿儿去	cuo yi dun er qu	1
+打奔儿	da ben er	1
+打岔	da cha	1
+打滴溜	da di liu	1
+打滴溜儿	da di liu er	1
+大肚儿累塞	da du er lei sai	1
+大发	da fa	1
+大法了	da fa le	1
+大概齐	da gai qi	1
+打卦	da gua	1
+打嗑呗儿	da ke bei er	1
+大喇	da la	1
+打狼	da lang	1
+大老爷儿们儿	da lao ye er men er	1
+打联联	da lian lian	1
+大马金刀	da ma jin dao	1
+大蜜	da mi	1
+大蜜泛儿	da mi fan er	1
+大拿	da na	1
+打漂儿	da piao er	1
+大手儿	da shou er	1
+打水漂儿	da shui piao er	1
+打水飘儿	da shui piao er	1
+打喜儿	da xi er	1
+大限	da xian	1
+打小儿	da xiao er	1
+打小鼓儿人	da xiao gu er ren	1
+大邑儿	da yi er	1
+打油飞	da you fei	1
+打这儿	da zhe er	1
+打住	da zhu	1
+当街晃荡打油飞	dang jie huang dang da you fei	1
+叨逼叨叨逼叨	dao bi dao dao bi dao	1
+捣嗤	dao chi	1
+捯饬	dao chi	1
+倒气儿	dao qi er	1
+捯气儿	dao qi er	1
+得波	de bo	1
+得嘞	de lei	1
+灯泡儿	deng pao er	1
+瞪眼儿瞎	deng yan er xia	1
+底儿掉	di er diao	1
+低喝低喝儿	di he di he er	1
+递牙签子	di ya qian zi	1
+点补	dian bu	1
+颠儿	dian er	1
+点儿背	dian er bei	1
+颠儿了	dian er le	1
+点卯	dian mao	1
+掉金豆子	diao jin dou zi	1
+吊腰子	diao yao zi	1
+跌份	die fen	1
+跌份儿	die fen er	1
+顶缸	ding gang	1
+抖机灵儿	dou ji ling er	1
+逗咳嗽	dou ke sou	1
+抖搂	dou lou	1
+逗闷子	dou men zi	1
+兜圈子	dou quan zi	1
+逗牙签子	dou ya qian zi	1
+逗秧子	dou yang zi	1
+毒眼	du yan	1
+断了念想儿	duan le nian xiang er	1
+段子	duan zi	1
+蹲班	dun ban	1
+陏陏	duo duo	1
+多新鲜呢	duo xin xian ne	1
+恶觉	e jue	1
+恶睡	e shui	1
+恶盈	e ying	1
+二把刀	er ba dao	1
+二百五	er bai wu	1
+二爹	er die	1
+二忽	er hu	1
+二乎了	er hu le	1
+二姆哥	er mu ge	1
+二五眼	er wu yan	1
+发小儿	fa xiao er	1
+翻车	fan che	1
+泛儿	fan er	1
+犯牛脖子	fan niu bo zi	1
+放话	fang hua	1
+放话儿	fang hua er	1
+放鹰	fang ying	1
+肥肠儿	fei chang er	1
+嘎七马八	ga qi ma ba	1
+概儿不论	gai er bu lun	1
+该干嘛干嘛去	gai gan ma gan ma qu	1
+概搂	gai lou	1
+干艮撅藏	gan gen jue cang	1
+敢情	gan qing	1
+干晕	gan yun	1
+刚攒了个本子	gang zan le ge ben zi	1
+嗝儿屁	ge er pi	1
+疙疙能能	ge ge neng neng	1
+哥们儿	ge men er	1
+硌你脚了	ge ni jiao le	1
+硌你脚了耽误你脚落地了	ge ni jiao le dan wu ni jiao luo di le	1
+隔三差五	ge san cha wu	1
+各色	ge se	1
+葛色	ge se	1
+硌应	ge ying	1
+膈应	ge ying	1
+搁着	ge zhe	1
+跟哪儿呢	gen na er ne	1
+够瞧的	gou qiao de	1
+鼓捣点儿	gu dao dian er	1
+骨立	gu li	1
+骨碌儿	gu lu er	1
+咕容	gu rong	1
+乖嘚	guai de	1
+光棍儿	guang gun er	1
+归置归置	gui zhi gui zhi	1
+果儿	guo er	1
+过节	guo jie	1
+裹乱	guo luan	1
+哈拉八西的	ha la ba xi de	1
+哈喇味	ha la wei	1
+哈腰	ha yao	1
+海了去了	hai le qu le	1
+汗摊	han tan	1
+薅草	hao cao	1
+号儿	hao er	1
+喝儿搂着	he er lou zhe	1
+盒儿钱	he er qian	1
+涸淋	he lin	1
+哼唧	heng ji	1
+横是	heng shi	1
+后儿	hou er	1
+猴儿顶灯	hou er ding deng	1
+齁人	hou ren	1
+后语儿	hou yu er	1
+候着	hou zhe	1
+候着吧	hou zhe ba	1
+胡吃闷睡	hu chi men shui	1
+胡抡	hu lun	1
+忽捋土	hu luo tu	1
+糊塌子	hu ta zi	1
+忽音捋	hu yin luo	1
+滑布唧撩	hua bu ji liao	1
+话碴儿	hua cha er	1
+话密	hua mi	1
+花子	hua zi	1
+坏醋	huai cu	1
+回见您	hui jian nin	1
+回头	hui tou	1
+火筷子	huo kuai zi	1
+急赤白脸	ji chi bai lian	1
+挤得	ji de	1
+挤兑	ji dui	1
+鸡贼	ji zei	1
+假科里	jia ke li	1
+家雀儿	jia qiao er	1
+假招子	jia zhao zi	1
+尖果	jian guo	1
+尖果儿	jian guo er	1
+尖孙	jian sun	1
+尖孙儿	jian sun er	1
+渐天儿	jian tian er	1
+见天儿	jian tian er	1
+贱招	jian zhao	1
+将将儿	jiang jiang er	1
+叫板	jiao ban	1
+嚼谷	jiao gu	1
+较劲儿	jiao jin er	1
+叫腻了姑拽	jiao ni le gu zhuai	1
+矫情	jiao qing	1
+叫水	jiao shui	1
+椒盐儿	jiao yan er	1
+借丙儿	jie bing er	1
+接嘎吱儿	jie ga zhi er	1
+街上的舅舅	jie shang de jiu jiu	1
+筋道	jin dao	1
+今儿	jin er	1
+进去	jin qu	1
+京片子	jing pian zi	1
+京油子	jing you zi	1
+就手儿	jiu shou er	1
+局器	ju qi	1
+局子	ju zi	1
+开涮	kai shuan	1
+侃大山	kan da shan	1
+看哈乐奔去	kan ha le ben qu	1
+侃爷	kan ye	1
+靠谱儿	kao pu er	1
+裉节儿	ken jie er	1
+抠门儿	kou men er	1
+苦不英儿	ku bu ying er	1
+挎喀	kua ka	1
+块儿	kuai er	1
+拉扯大了	la che da le	1
+拉和儿	la he er	1
+拉幌绳	la huang sheng	1
+拉幌绳意	la huang sheng yi	1
+拉了胯	la le kua	1
+邋遢	la ta	1
+老伴儿	lao ban er	1
+老沉屁股	lao chen pi gu	1
+老赶	lao gan	1
+老公母俩	lao gong mu lia	1
+劳驾	lao jia	1
+老家儿	lao jia er	1
+老家雀儿	lao jia qiao er	1
+姥姥	lao lao	1
+劳您驾	lao nin jia	1
+老泡儿	lao pao er	1
+捞人	lao ren	1
+落忍	lao ren	1
+老这样	lao zhe yang	1
+雷子	lei zi	1
+理门儿	li men er	1
+俩人闷得儿蜜	lia ren men de er mi	1
+练家子	lian jia zi	1
+两说	liang shuo	1
+撂挑子	liao tiao zi	1
+咧下来	lie xia lai	1
+溜达	liu da	1
+遛儿早儿	liu er zao er	1
+熘肝尖儿	liu gan jian er	1
+流哈拉子	liu ha la zi	1
+琉璃球嘎杂子	liu li qiu ga za zi	1
+溜溜儿	liu liu er	1
+溜嗖	liu sou	1
+遛弯儿	liu wan er	1
+露怯	lou qie	1
+娄一眼	lou yi yan	1
+锣齐鼓不齐	luo qi gu bu qi	1
+码儿	ma er	1
+麻利儿	ma li er	1
+嘛呢	ma ne	1
+满世界	man shi jie	1
+满嘴跑火车	man zui pao huo che	1
+冒儿得子	mao er de zi	1
+猫儿腻	mao er ni	1
+茅房	mao fang	1
+猫着	mao zhe	1
+没溜儿	mei liu er	1
+没着没落儿	mei zhao mei lao er	1
+没嘴儿葫芦儿	mei zui er hu lu er	1
+闷得儿密	men de er mi	1
+闷得儿蜜	men de er mi	1
+门儿清	men er qing	1
+门脸儿	men lian er	1
+迷瞪	mi deng	1
+面软	mian ruan	1
+明儿	ming er	1
+明镜儿	ming jing er	1
+抹不丢的	mo bu diu de	1
+抹不丢地	mo bu diu di	1
+摸不着脉	mo bu zhao mai	1
+抹擦	mo ca	1
+末了儿	mo liao er	1
+磨磨叽叽	mo mo ji ji	1
+末末了儿	mo mo liao er	1
+抹腻	mo ni	1
+抹挲	mo suo	1
+姆们	mu men	1
+拿不起个儿	na bu qi ge er	1
+哪出儿	na chu er	1
+拿搪	na tang	1
+那主儿	na zhu er	1
+能个儿	neng ge er	1
+你给我歇了吧	ni gei wo xie le ba	1
+你就毁我吧	ni jiu hui wo ba	1
+你可算抄上了	ni ke suan chao shang le	1
+你姥姥的	ni lao lao de	1
+你们家人叫你呢	ni men jia ren jiao ni ne	1
+腻歪	ni wai	1
+腻味	ni wei	1
+你丫找抽呐	ni ya zhao chou na	1
+蔫不唧	nian bu ji	1
+蔫儿坏	nian er huai	1
+蔫嗵劲儿	nian tong jin er	1
+蔫土匪	nian tu fei	1
+念央儿	nian yang er	1
+念秧儿	nian yang er	1
+蔫有准	nian you zhun	1
+捏咕	nie gu	1
+拧股	ning gu	1
+牛气	niu qi	1
+拗甜	niu tian	1
+弄蹭了	nong ceng le	1
+噢喉	o hou	1
+扒拉	pa la	1
+扒拉公司	pa la gong si	1
+帕替	pa ti	1
+盘儿	pan er	1
+盘儿靓	pan er liang	1
+炮儿局	pao er ju	1
+炮儿楼	pao er lou	1
+喯儿	pen er	1
+弸子	peng zi	1
+屁颠儿	pi dian er	1
+屁颠儿屁颠儿	pi dian er pi dian er	1
+皮儿	pi er	1
+屁股沉	pi gu chen	1
+僻角儿	pi jue er	1
+片子	pian zi	1
+贫嘴	pin zui	1
+齐活	qi huo	1
+起腻	qi ni	1
+前儿	qian er	1
+钱狠子	qian hen zi	1
+墙靠壁儿	qiang kao bi er	1
+戗折儿	qiang zhe er	1
+怯不溜丢的	qie bu liu diu de	1
+怯勺	qie shao	1
+且着呢	qie zhe ne	1
+亲的己的	qin de ji de	1
+勤行	qin xing	1
+情等着	qing deng zhe	1
+请好吧您呢	qing hao ba nin ne	1
+轻盛	qing sheng	1
+全活儿	quan huo er	1
+圈子	quan zi	1
+热水窜儿	re shui cuan er	1
+认死理儿	ren si li er	1
+软底子	ruan di zi	1
+弱了弦子	ruo le xian zi	1
+撒丫子	sa ya zi	1
+撒鸭子	sa ya zi	1
+撒癔症	sa yi zheng	1
+三蹦子	san beng zi	1
+散摊子	san tan zi	1
+丧梆	sang bang	1
+嗓子劈了	sang zi pi le	1
+臊的慌	sao de huang	1
+扫听	sao ting	1
+涩果	se guo	1
+傻冒儿	sha mao er	1
+上赶着	shang gan zhe	1
+上了发条	shang le fa tiao	1
+上脸	shang lian	1
+上哪哈儿切您	shang na ha er qie nin	1
+捎带手儿	shao dai shou er	1
+勺上	shao shang	1
+神叉子	shen cha zi	1
+慎得慌	shen de huang	1
+渗渗再说	shen shen zai shuo	1
+生簧	sheng huang	1
+事儿	shi er	1
+书腻子	shu ni zi	1
+刷夜	shua ye	1
+摔咧子	shuai lie zi	1
+谁跟谁呀	shui gen shui ya	1
+水喉	shui hou	1
+水三儿	shui san er	1
+水舀子	shui yao zi	1
+顺竿儿爬	shun gan er pa	1
+顺毛儿驴	shun mao er lv	1
+顺钱	shun qian	1
+说大话使小钱儿	shuo da hua shi xiao qian er	1
+说话要走	shuo hua yao zou	1
+说难听点儿	shuo nan ting dian er	1
+说秃噜了	shuo tu lu le	1
+死旮旯儿	si ga la er	1
+死个膛儿	si ge tang er	1
+四棱子	si leng zi	1
+死乞白赖	si qi bai lai	1
+死心眼儿	si xin yan er	1
+酸不唧儿	suan bu ji er	1
+碎催	sui cui	1
+隋隋	sui sui	1
+碎嘴子	sui zui zi	1
+孙儿	sun er	1
+塔儿哄	ta er hong	1
+踏拉板儿	ta la ban er	1
+塌了秧儿	ta le yang er	1
+汤儿事	tang er shi	1
+套瓷	tao ci	1
+套磁	tao ci	1
+添堵	tian du	1
+挑费	tiao fei	1
+挑眼了	tiao yan le	1
+听蛐蛐儿	ting qu qu er	1
+听蛐蛐儿叫	ting qu qu er jiao	1
+捅篓子	tong lou zi	1
+土鳖	tu bie	1
+土腥味儿	tu xing wei er	1
+歪瓜裂枣	wai gua lie zao	1
+崴泥	wai ni	1
+玩幺蛾子	wan yao e zi	1
+味儿	wei er	1
+温的呼	wen de hu	1
+我待见你	wo dai jian ni	1
+窝头儿	wo tou er	1
+乌央乌央	wu yang wu yang	1
+戏果跟泡妞	xi guo gen pao niu	1
+唏溜儿	xi liu er	1
+下巴颏儿底下	xia ba ke er di xia	1
+瞎了	xia le	1
+虾米了	xia mi le	1
+下套儿	xia tao er	1
+夏天儿	xia tian er	1
+馅儿饼	xian er bing	1
+小家雀儿	xiao jia qiao er	1
+小力笨儿	xiao li ben er	1
+小妹妹儿的	xiao mei mei er de	1
+小们蛋儿	xiao men dan er	1
+小手儿	xiao shou er	1
+消停	xiao ting	1
+小小子儿	xiao xiao zi er	1
+鞋倍儿	xie bei er	1
+歇菜	xie cai	1
+邪乎	xie hu	1
+歇了呗您的	xie le bei nin de	1
+邪性	xie xing	1
+行头	xing tou	1
+嗅蜜	xiu mi	1
+絮絮叨叨	xu xu dao dao	1
+眼毒	yan du	1
+腌剌巴臜	yan la ba za	1
+腌里巴臜	yan li ba za	1
+雁么虎	yan me hu	1
+言语	yan yu	1
+洋落儿	yang lao er	1
+痒痒筋儿	yang yang jin er	1
+要菜	yao cai	1
+幺蛾子	yao e zi	1
+窑姐儿	yao jie er	1
+业障	ye zhang	1
+一巴	yi ba	1
+一绷子	yi beng zi	1
+一绷子北京土话	yi beng zi bei jing tu hua	1
+一个儿个儿	yi ge er ge er	1
+衣裳架儿	yi shang jia er	1
+硬嘣	ying beng	1
+硬朗	ying lang	1
+有点过了	you dian guo le	1
+油儿	you er	1
+有一搭没一搭	you yi da mei yi da	1
+悠着	you zhe	1
+悠着点儿	you zhe dian er	1
+晕菜	yun cai	1
+运动泛儿	yun dong fan er	1
+咂摸	za mo	1
+砸窑	za yao	1
+在理儿	zai li er	1
+再说吧	zai shuo ba	1
+攒了	zan le	1
+脏了房	zang le fang	1
+遭践	zao jian	1
+炸了庙	zha le miao	1
+眨么眼儿	zha me yan er	1
+摘楞	zhai leng	1
+张儿	zhang er	1
+张着神	zhang zhe shen	1
+找抽	zhao chou	1
+照面儿	zhao mian er	1
+这程子	zhe cheng zi	1
+这当儿	zhe dang er	1
+折进来	zhe jin lai	1
+折了	zhe le	1
+蜇啰	zhe luo	1
+这肉劲儿	zhe rou jin er	1
+真味儿	zhen wei er	1
+挣脸	zheng lian	1
+睁眼儿瞎	zheng yan er xia	1
+支楞着	zhi leng zhe	1
+支招儿	zhi zhao er	1
+支着儿	zhi zhe er	1
+轴脾气	zhou pi qi	1
+抓瞎	zhua xia	1
+自个儿	zi ge er	1
+走嘴	zou zui	1
+卒瓦	zu wa	1
+嘴皮子	zui pi zi	1
+嘬瘪子	zuo bie zi	1
+昨儿	zuo er	1
+坐门墩儿	zuo men dun er	1
